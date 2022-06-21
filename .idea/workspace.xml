@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="097a5aab-2b05-43e9-a745-524b365ec852" name="Default Changelist" comment="" />
+    <list default="true" id="097a5aab-2b05-43e9-a745-524b365ec852" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2Aq0VI5NirNRC816L4qEky7AHQu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -115,12 +119,24 @@
       <updated>1655721829930</updated>
       <workItem from="1655721833447" duration="7065000" />
       <workItem from="1655733124734" duration="7285000" />
-      <workItem from="1655771320900" duration="11514000" />
+      <workItem from="1655771320900" duration="11754000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1655807857743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655807857743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="789" y="410" width="1164" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655739783976">
@@ -143,6 +159,10 @@
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
     <state x="647" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1655798649499" />
+    <state x="743" y="240" key="CommitChangelistDialog2" timestamp="1655807856818">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="743" y="240" key="CommitChangelistDialog2/0.0.2048.1232@0.0.2048.1232" timestamp="1655807856818" />
     <state x="846" y="308" key="FileChooserDialogImpl" timestamp="1655807631132">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
