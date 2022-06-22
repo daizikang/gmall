@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Mapper;
  * @createDate 2022-06-20 14:48:55
  * @Entity com.atguigu.gmall.product.domain.BaseCategory2
  */
-@Mapper
+
 public interface BaseCategory2Mapper extends BaseMapper<BaseCategory2> {
 
 }

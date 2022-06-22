@@ -9,6 +9,6 @@ import org.apache.ibatis.annotations.Mapper;
  * @createDate 2022-06-20 14:51:04
  * @Entity com.atguigu.gmall.product.domain.BaseCategory3
  */
-@Mapper
+
 public interface BaseCategory3Mapper extends BaseMapper<BaseCategory3> {
 }

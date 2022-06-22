@@ -10,7 +10,7 @@ import org.apache.ibatis.annotations.Mapper;
  * @Component
  */
 //所有Mapper组件都要放在Spring容器
-@Mapper
+
 public interface BaseCategory1Mapper extends BaseMapper<BaseCategory1> {
 }
 
