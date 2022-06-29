@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96cc52c0-107b-45b8-9cc1-70b91cc9b5a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/server-gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-gateway/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/server-gateway/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/mapper/BaseCategory1Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/mapper/BaseCategory1Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/mapper/SpuSaleAttrMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/mapper/SpuSaleAttrMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/service/SpuSaleAttrService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/service/SpuSaleAttrService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/service/impl/SpuSaleAttrServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/service/impl/SpuSaleAttrServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/src/main/resources/mapper/SpuSaleAttrMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/src/main/resources/mapper/SpuSaleAttrMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-product/target/classes/com/atguigu/gmall/product/mapper/BaseCategory1Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-product/target/classes/com/atguigu/gmall/product/mapper/BaseCategory1Mapper.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +57,15 @@
         <item name="gmall" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="gmall_product: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="views" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gmall" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gmall_product: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="views" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="category_view: view" type="d3266483:MysqlImplModel$View" />
       </path>
     </expand>
     <select />
@@ -49,6 +73,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Mybatis Mapper" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -96,21 +121,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/gmall/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/mall-feign-client/src/main/java/com/atguigu/gmall/feign/product" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\DATA\wh0106\gmall-parent\common" />
+      <recent name="D:\DATA\wh0106\gmall-parent\service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DATA\wh0106\gmall-parent\common\mall-feign-client\src\main\java\com\atguigu\gmall\feign\product" />
+      <recent name="D:\DATA\wh0106\gmall-parent\common\service-util\src\main\java\com\atguigu\gmall\common" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.atguigu.gmall.product.service" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\DATA\wh0106\gmall-parent\common\service-util\src\main\java\com\atguigu\gmall\common" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -127,9 +157,58 @@
       <method v="2" />
     </configuration>
     <configuration name="gmall" type="CompoundRunConfigurationType">
-      <toRun name="GatewayMainApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="FrontMainApplication" type="SpringBootApplicationConfigurationType" />
       <toRun name="ProductMainApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="GatewayMainApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="ItemMainApplication" type="SpringBootApplicationConfigurationType" />
       <method v="2" />
+    </configuration>
+    <configuration name="RedisTest.queryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall.product" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.product.RedisTest" />
+      <option name="METHOD_NAME" value="queryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.redis01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall.product" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.product.RedisTest" />
+      <option name="METHOD_NAME" value="redis01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="web-front" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.front.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.front.FrontMainApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m -Xms100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="GatewayMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="server-gateway" />
@@ -140,6 +219,23 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.gateway.GatewayMainApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m -Xms100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-item" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.item.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.item.ItemMainApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx100m -Xms100m" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,9 +257,19 @@
     </configuration>
     <list>
       <item itemvalue="Compound.gmall" />
+      <item itemvalue="JUnit.RedisTest.redis01" />
+      <item itemvalue="JUnit.RedisTest.queryTest" />
       <item itemvalue="Spring Boot.GatewayMainApplication" />
       <item itemvalue="Spring Boot.ProductMainApplication" />
+      <item itemvalue="Spring Boot.FrontMainApplication" />
+      <item itemvalue="Spring Boot.ItemMainApplication" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisTest.queryTest" />
+        <item itemvalue="JUnit.RedisTest.redis01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -207,7 +313,18 @@
       <workItem from="1655857475531" duration="16263000" />
       <workItem from="1655967960773" duration="131000" />
       <workItem from="1655968610089" duration="540000" />
-      <workItem from="1655969192717" duration="3523000" />
+      <workItem from="1655969192717" duration="4386000" />
+      <workItem from="1656030870776" duration="2783000" />
+      <workItem from="1656155046475" duration="3137000" />
+      <workItem from="1656203155479" duration="6642000" />
+      <workItem from="1656241532853" duration="8631000" />
+      <workItem from="1656253388461" duration="5366000" />
+      <workItem from="1656259019522" duration="1944000" />
+      <workItem from="1656289577869" duration="17875000" />
+      <workItem from="1656341783223" duration="1112000" />
+      <workItem from="1656409910745" duration="1027000" />
+      <workItem from="1656410968043" duration="11697000" />
+      <workItem from="1656466164177" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1655807857743</created>
@@ -244,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655972489473</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第三次提交">
+      <created>1655972746610</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655972746610</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,22 +423,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="601" y="310" key="#Project_Structure" timestamp="1655887036635">
+    <state x="948" y="371" key="#ProductMainApplication" timestamp="1656420548352">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="601" y="310" key="#Project_Structure/0.0.2048.1232@0.0.2048.1232" timestamp="1655887036635" />
-    <state x="789" y="410" width="1164" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1655810837348">
+    <state x="948" y="371" key="#ProductMainApplication/0.0.2048.1232@0.0.2048.1232" timestamp="1656420548352" />
+    <state x="601" y="310" key="#Project_Structure" timestamp="1656238350132">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="789" y="410" width="1164" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1655810837348" />
-    <state x="1057" y="839" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655737229370">
+    <state x="601" y="310" key="#Project_Structure/0.0.2048.1232@0.0.2048.1232" timestamp="1656238350132" />
+    <state x="789" y="410" width="1164" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656258008390">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="1057" y="839" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1232@0.0.2048.1232" timestamp="1655737229370" />
-    <state x="1274" y="312" key="#com.intellij.ide.util.MemberChooser" timestamp="1655884632980">
+    <state x="789" y="410" width="1164" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1656258008390" />
+    <state x="1057" y="839" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656238362904">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="1274" y="312" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1232@0.0.2048.1232" timestamp="1655884632980" />
+    <state x="1057" y="839" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1232@0.0.2048.1232" timestamp="1656238362904" />
+    <state x="1274" y="312" key="#com.intellij.ide.util.MemberChooser" timestamp="1656416317015">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="1274" y="312" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1232@0.0.2048.1232" timestamp="1656416317015" />
     <state x="945" y="554" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1655737552726">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
@@ -323,50 +451,74 @@
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
     <state x="647" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1655798649499" />
-    <state x="743" y="240" key="CommitChangelistDialog2" timestamp="1655972488987">
+    <state x="1046" y="395" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1656327583819">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="743" y="240" key="CommitChangelistDialog2/0.0.2048.1232@0.0.2048.1232" timestamp="1655972488987" />
+    <state x="1046" y="395" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1656327583819" />
+    <state x="743" y="240" key="CommitChangelistDialog2" timestamp="1655972746252">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="743" y="240" key="CommitChangelistDialog2/0.0.2048.1232@0.0.2048.1232" timestamp="1655972746252" />
     <state x="257" y="107" key="DiffContextDialog" timestamp="1655965833150">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
     <state x="257" y="107" key="DiffContextDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1655965833150" />
-    <state x="846" y="308" key="FileChooserDialogImpl" timestamp="1655810789662">
+    <state x="846" y="308" key="FileChooserDialogImpl" timestamp="1656323858508">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="846" y="308" key="FileChooserDialogImpl/0.0.2048.1232@0.0.2048.1232" timestamp="1655810789662" />
-    <state width="1377" height="424" key="GridCell.Tab.0.bottom" timestamp="1655972449957">
+    <state x="846" y="308" key="FileChooserDialogImpl/0.0.2048.1232@0.0.2048.1232" timestamp="1656323858508" />
+    <state x="844" y="567" width="382" height="206" key="Github.CreateGistDialog" timestamp="1656334680679">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.0.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449957" />
-    <state width="1377" height="424" key="GridCell.Tab.0.center" timestamp="1655972449957">
+    <state x="844" y="567" width="382" height="206" key="Github.CreateGistDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1656334680679" />
+    <state width="1115" height="475" key="GridCell.Tab.0.bottom" timestamp="1656469028544">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.0.center/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449957" />
-    <state width="1377" height="424" key="GridCell.Tab.0.left" timestamp="1655972449956">
+    <state width="1115" height="475" key="GridCell.Tab.0.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1115" height="475" key="GridCell.Tab.0.center" timestamp="1656469028544">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.0.left/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449956" />
-    <state width="1377" height="424" key="GridCell.Tab.0.right" timestamp="1655972449957">
+    <state width="1115" height="475" key="GridCell.Tab.0.center/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1115" height="475" key="GridCell.Tab.0.left" timestamp="1656469028544">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.0.right/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449957" />
-    <state width="1377" height="424" key="GridCell.Tab.1.bottom" timestamp="1655972449957">
+    <state width="1115" height="475" key="GridCell.Tab.0.left/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1115" height="475" key="GridCell.Tab.0.right" timestamp="1656469028544">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.1.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449957" />
-    <state width="1377" height="424" key="GridCell.Tab.1.center" timestamp="1655972449957">
+    <state width="1115" height="475" key="GridCell.Tab.0.right/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1115" height="475" key="GridCell.Tab.1.bottom" timestamp="1656469028544">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.1.center/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449957" />
-    <state width="1377" height="424" key="GridCell.Tab.1.left" timestamp="1655972449957">
+    <state width="1115" height="475" key="GridCell.Tab.1.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1115" height="475" key="GridCell.Tab.1.center" timestamp="1656469028544">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.1.left/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449957" />
-    <state width="1377" height="424" key="GridCell.Tab.1.right" timestamp="1655972449957">
+    <state width="1115" height="475" key="GridCell.Tab.1.center/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1115" height="475" key="GridCell.Tab.1.left" timestamp="1656469028544">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state width="1377" height="424" key="GridCell.Tab.1.right/0.0.2048.1232@0.0.2048.1232" timestamp="1655972449957" />
+    <state width="1115" height="475" key="GridCell.Tab.1.left/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1115" height="475" key="GridCell.Tab.1.right" timestamp="1656469028544">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1115" height="475" key="GridCell.Tab.1.right/0.0.2048.1232@0.0.2048.1232" timestamp="1656469028544" />
+    <state width="1562" height="465" key="GridCell.Tab.2.bottom" timestamp="1656336597140">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1562" height="465" key="GridCell.Tab.2.bottom/0.0.2048.1232@0.0.2048.1232" timestamp="1656336597140" />
+    <state width="1562" height="465" key="GridCell.Tab.2.center" timestamp="1656336597140">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1562" height="465" key="GridCell.Tab.2.center/0.0.2048.1232@0.0.2048.1232" timestamp="1656336597140" />
+    <state width="1562" height="465" key="GridCell.Tab.2.left" timestamp="1656336597140">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1562" height="465" key="GridCell.Tab.2.left/0.0.2048.1232@0.0.2048.1232" timestamp="1656336597140" />
+    <state width="1562" height="465" key="GridCell.Tab.2.right" timestamp="1656336597140">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state width="1562" height="465" key="GridCell.Tab.2.right/0.0.2048.1232@0.0.2048.1232" timestamp="1656336597140" />
     <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1655811047135">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
@@ -379,14 +531,14 @@
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
     <state x="776" y="391" key="RollbackChangesDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1655966004210" />
-    <state x="770" y="300" width="996" height="734" key="SettingsEditor" timestamp="1655971984760">
+    <state x="764" y="493" width="996" height="734" key="SettingsEditor" timestamp="1656258848476">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="770" y="300" width="996" height="734" key="SettingsEditor/0.0.2048.1232@0.0.2048.1232" timestamp="1655971984760" />
-    <state x="788" y="371" key="Vcs.Push.Dialog.v2" timestamp="1655808061635">
+    <state x="764" y="493" width="996" height="734" key="SettingsEditor/0.0.2048.1232@0.0.2048.1232" timestamp="1656258848476" />
+    <state x="788" y="371" key="Vcs.Push.Dialog.v2" timestamp="1655972756044">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="788" y="371" key="Vcs.Push.Dialog.v2/0.0.2048.1232@0.0.2048.1232" timestamp="1655808061635" />
+    <state x="788" y="371" key="Vcs.Push.Dialog.v2/0.0.2048.1232@0.0.2048.1232" timestamp="1655972756044" />
     <state x="262" y="238" width="1631" height="860" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1655966902216">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
@@ -395,13 +547,17 @@
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
     <state x="814" y="324" key="git4idea.branch.GitSmartOperationDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1655969439749" />
-    <state x="868" y="305" key="new project wizard" timestamp="1655728164349">
+    <state x="868" y="305" key="new project wizard" timestamp="1656326563863">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="868" y="305" key="new project wizard/0.0.2048.1232@0.0.2048.1232" timestamp="1655728164349" />
-    <state x="1187" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1655884462698">
+    <state x="868" y="305" key="new project wizard/0.0.2048.1232@0.0.2048.1232" timestamp="1656326563863" />
+    <state x="1187" y="295" key="refactoring.ChangeSignatureDialog" timestamp="1656418072406">
       <screen x="0" y="0" width="2048" height="1232" />
     </state>
-    <state x="1187" y="295" key="refactoring.ChangeSignatureDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1655884462698" />
+    <state x="1187" y="295" key="refactoring.ChangeSignatureDialog/0.0.2048.1232@0.0.2048.1232" timestamp="1656418072406" />
+    <state x="725" y="522" width="672" height="678" key="search.everywhere.popup" timestamp="1656043082528">
+      <screen x="0" y="0" width="2048" height="1232" />
+    </state>
+    <state x="725" y="522" width="672" height="678" key="search.everywhere.popup/0.0.2048.1232@0.0.2048.1232" timestamp="1656043082528" />
   </component>
 </project>
